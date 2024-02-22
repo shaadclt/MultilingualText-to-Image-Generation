@@ -69,7 +69,7 @@ def generate_image(prompt, model):
   image = image.resize(CFG.image_gen_size)
   return image
 ```
-### Provide an example of how to use the functions to generate an image based on a text prompt.
+### Example of how to use the functions to generate an image based on a text prompt.
 5. Example Usage
 ```bash
 prompt = "മരത്തിൽ ഇരിക്കുന്നു ഒരു മത്സ്യം"
